@@ -18,7 +18,7 @@ This project is a Salesforce-based AI-powered customer support ticketing system 
 ## 👥 Team Members
 - Ankita Kaushik (Team Lead)
 - Shivam Gupta (Member)
-- Satyam Guptav (Member)
+- Satyam Gupta (Member)
 - Utkarsh Mishra(Member)
 
 ## 📂 How to Use
