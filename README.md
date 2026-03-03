@@ -13,14 +13,13 @@ This project is a Salesforce-based AI-powered customer support ticketing system 
 ## 🛠️ Technologies Used
 - Salesforce Admin
 - AI Agentforce
-- Apex (if used)
 - Lightning Components
 
 ## 👥 Team Members
 - Ankita Kaushik (Team Lead)
-- Shivam Gupta
-- Satyam Gupta
-- Utkarsh Mishra
+- Shivam Gupta (Member)
+- Satyam Guptav (Member)
+- Utkarsh Mishra(Member)
 
 ## 📂 How to Use
 1. Clone the repository
