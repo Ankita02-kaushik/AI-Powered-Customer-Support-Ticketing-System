@@ -25,7 +25,7 @@ This project is a Salesforce-based AI-powered customer support ticketing system 
 1. Clone the repository
 2. Configure Salesforce environment
 3. Deploy components
-4. Start managing tickets
+4. Start managing tickets.
 
 ## 📎 GitHub Repository
 [Click Here](https://github.com/Ankita02-kaushik/AI-Powered-Customer-Support-Ticketing-System)
